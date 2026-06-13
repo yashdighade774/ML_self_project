@@ -17,19 +17,19 @@ Names of target features : ['LAYING','SITTING','STANDING','WALKING','WALKING_DOW
 
 
 
-The accuracy of the custom implementation of model is 0.8819
-The precision of the custom implementation of model is 0.8855
-The recall of the custom implementation of model is 0.8819
-Results for custom softmax regressor
+The accuracy of the custom implementation of model is 0.8819.
+The precision of the custom implementation of model is 0.8855.
+The recall of the custom implementation of model is 0.8819.
+Results for custom softmax regressor : 
 https://colab.research.google.com/drive/14vfkIyaml22RkG2vo7oNFjqoK20veEjA#scrollTo=z_OYcvLf-5N4&fullscreenOutput=true
 
 
 
 
-The accuracy of the sklearn model is 0.9518
-The precision of the sklearn model is 0.9529
-The recall of the sklearn model is 0.9518
-Results for sklearn softmax regressor
+The accuracy of the sklearn model is 0.9518.
+The precision of the sklearn model is 0.9529.
+The recall of the sklearn model is 0.9518.
+Results for sklearn softmax regressor :
 https://colab.research.google.com/drive/14vfkIyaml22RkG2vo7oNFjqoK20veEjA#scrollTo=tg3GeZId-5N-&fullscreenOutput=true
 
 

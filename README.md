@@ -16,51 +16,21 @@ Names of target features : ['LAYING','SITTING','STANDING','WALKING','WALKING_DOW
 
 
 
-Classification report of custom softmax regressor
-              precision    recall  f1-score   support
-
-           0       1.00      1.00      1.00       537
-           1       0.85      0.72      0.78       491
-           2       0.78      0.88      0.83       532
-           3       0.85      0.97      0.91       496
-           4       0.94      0.78      0.85       420
-           5       0.90      0.91      0.90       471
-
-    accuracy                           0.88      2947
-   macro avg       0.89      0.88      0.88      2947
-weighted avg       0.89      0.88      0.88      2947
-
 
 The accuracy of the custom implementation of model is 0.8819
 The precision of the custom implementation of model is 0.8855
 The recall of the custom implementation of model is 0.8819
+Results for custom softmax regressor
+https://colab.research.google.com/drive/14vfkIyaml22RkG2vo7oNFjqoK20veEjA#scrollTo=z_OYcvLf-5N4&fullscreenOutput=true
 
 
 
-
-
-
-
-
-
-
-
-Classification report of sklearn model
-              precision    recall  f1-score   support
-
-           0       0.99      1.00      0.99       537
-           1       0.96      0.88      0.91       491
-           2       0.90      0.96      0.93       532
-           3       0.93      1.00      0.96       496
-           4       0.97      0.95      0.96       420
-           5       0.98      0.92      0.94       471
-
-    accuracy                          0.95      2947
-   macro avg       0.95      0.95      0.95      2947
-weighted avg       0.95      0.95      0.95      2947
 
 The accuracy of the sklearn model is 0.9518
 The precision of the sklearn model is 0.9529
 The recall of the sklearn model is 0.9518
-   macro avg       0.89      0.88      0.88      2947
-weighted avg       0.89      0.88      0.88      2947
+Results for sklearn softmax regressor
+https://colab.research.google.com/drive/14vfkIyaml22RkG2vo7oNFjqoK20veEjA#scrollTo=tg3GeZId-5N-&fullscreenOutput=true
+
+
+

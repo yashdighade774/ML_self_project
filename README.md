@@ -8,18 +8,26 @@ For training process I have divided the training data into training and validati
 I have plot training and validation errors on matplotlib and along with that I have compared accuracy ,precision and recall of custom and sklearn's implementation of softmax regressor.
 
 Number of training samples : 7352
+
 Number of testing samples : 2947
+
 Number of Features initially : 561
+
 Number of features after dimensionality reduction : 34
+
 Number of target columns : 6
+
 Names of target features : ['LAYING','SITTING','STANDING','WALKING','WALKING_DOWNSTAIRS','WALKING_UPSTAIRS']
 
 
 
 
 The accuracy of the custom implementation of model is 0.8819.
+
 The precision of the custom implementation of model is 0.8855.
+
 The recall of the custom implementation of model is 0.8819.
+
 Results for custom softmax regressor : 
 https://colab.research.google.com/drive/14vfkIyaml22RkG2vo7oNFjqoK20veEjA#scrollTo=z_OYcvLf-5N4&fullscreenOutput=true
 
@@ -27,8 +35,11 @@ https://colab.research.google.com/drive/14vfkIyaml22RkG2vo7oNFjqoK20veEjA#scroll
 
 
 The accuracy of the sklearn model is 0.9518.
+
 The precision of the sklearn model is 0.9529.
+
 The recall of the sklearn model is 0.9518.
+
 Results for sklearn softmax regressor :
 https://colab.research.google.com/drive/14vfkIyaml22RkG2vo7oNFjqoK20veEjA#scrollTo=tg3GeZId-5N-&fullscreenOutput=true
 
